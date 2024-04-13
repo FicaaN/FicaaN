@@ -2,7 +2,7 @@
 
 I'm 22-year-old student of Information Engineering at HAW Hamburg, Germany.
 
-Passionate about **AI**🤖 and **Python**🐍.
+- Passionate about **AI**🤖 and **Python**🐍.
 
 ## 📦**Toolbox**
 
