@@ -2,9 +2,9 @@
 
 I am a 22-year-old student studying Information Engineering at HAW Hamburg, Germany.
 
-- Enthusiast about **AI**🤖 and **Python**🐍
-- Interested in **Machine Learning**🧠, **Computer Vision**👁️ and **Generative AI**💡
-- Currently learning **Java**☕
+- Enthusiast about **AI**🤖 and **Python**🐍.
+- Interested in **Machine Learning**🧠, **Computer Vision**👁️ and **Generative AI**💡.
+- Currently learning **Java**☕.
 
 ## 📦**Toolbox**
 
