@@ -10,6 +10,6 @@ I am a 22-year-old student studying Information Engineering at HAW Hamburg, Germ
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,github,java" />
+    <img src="https://skillicons.dev/icons?i=c,java,python,github" />
   </a>
 </p>
