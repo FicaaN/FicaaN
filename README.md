@@ -1,6 +1,6 @@
 ## Hey, I'm Filip 👋🏻
 
-I am a 22-year-old student studying Information Engineering at HAW Hamburg, Germany.
+I am a 23-year-old student studying Information Engineering at HAW Hamburg, Germany.
 
 - Enthusiast about **AI**🤖 and **Python**🐍.
 - Interested in **Machine Learning**🧠, **Computer Vision**👁️ and **Generative AI**💡.
