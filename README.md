@@ -10,6 +10,6 @@ I am a student studying Information Engineering at HAW Hamburg, Germany.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,github" />
+    <img src="https://skillicons.dev/icons?i=python,java,c,github" />
   </a>
 </p>
