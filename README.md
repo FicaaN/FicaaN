@@ -4,7 +4,7 @@ I am a student studying Information Engineering at HAW Hamburg, Germany.
 
 - Enthusiast about **Python**🐍 and **AI**🤖.
 - Interested in **Data Analysis**📊, **Machine Learning**🧠, **Computer Vision**👁️ and **Generative AI**💡.
-- Reading **How AI Works** by _Ronald T. Kneusel_ 📖.
+- Reading **Artificial Intelligence** by _Melanie Mitchell_ 📖.
 
 ## 📦**Toolbox**
 
