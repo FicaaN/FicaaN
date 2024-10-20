@@ -1,9 +1,9 @@
 ## Hey, I'm Filip 👋🏻
 
-I am a student studying Information Engineering at HAW Hamburg, Germany.
+Information Engineering student at HAW Hamburg, Germany.
 
-- Enthusiast about **Python**🐍 and **AI**🤖.
-- Interested in **Data Analysis**📊, **Machine Learning**🧠, **Computer Vision**👁️ and **Generative AI**💡.
+- **Python Developer**🐍 and **Artificial Intelligence Enthusiast**🤖.
+- Passionate about **Data Analysis**📊, **Machine Learning**🧠 and **Generative AI**💡.
 - Reading **Artificial Intelligence** by _Melanie Mitchell_ 📖.
 
 ## 📦**Toolbox**
