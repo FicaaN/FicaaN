@@ -3,8 +3,7 @@
 Information Engineering student at HAW Hamburg, Germany.
 
 - **Python Developer**🐍 and **Artificial Intelligence Enthusiast**🤖.
-- Passionate about **Data Analysis**📊, **Machine Learning**🧠 and **Generative AI**💡.
-- Reading **Artificial Intelligence** by _Melanie Mitchell_ 📖.
+- Passionate about **Machine Learning**🧠, **Data Analysis**📊 and **Generative AI**💡.
 
 ## 📦**Toolbox**
 
