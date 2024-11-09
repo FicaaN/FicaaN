@@ -1,9 +1,8 @@
 ## Hey, I'm Filip 👋🏻
 
-Information Engineering student at HAW Hamburg, Germany.
-
+- **Information Engineering** student at HAW Hamburg, Germany⚓.
 - **Python Developer**🐍 and **Artificial Intelligence Enthusiast**🤖.
-- Passionate about **Machine Learning**🧠, **Data Analysis**📊 and **Generative AI**💡.
+- Passionate about **Machine Learning**🧠, **Data Analysis**📊 and **Data Science**💻.
 
 ## 📦**Toolbox**
 
