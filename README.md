@@ -1,6 +1,6 @@
 ## Hey, I'm Filip 👋🏻
 
-- **Information Engineering** student at HAW Hamburg, Germany⚓.
+- **Information Engineering** student at HAW Hamburg⚓
 - **Python Developer**🐍 | **Machine Learning / AI Enthusiast**🤖
 ## 🛠️Toolbox
 
