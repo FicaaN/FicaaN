@@ -6,4 +6,4 @@
 
 - **Programming Languages:** Python, Java, C
 - **Libraries & Frameworks:** NumPy, pandas, SciPy, Matplotlib, seaborn, scikit-learn, spaCy, TensorFlow, Keras, PyTorch
-- **Tools and Platforms:** MySQL, Git, GitHub, Power BI, Excel, VS Code
+- **Tools and Platforms:** MySQL, Git, GitHub, Power BI, Excel, VSCode
