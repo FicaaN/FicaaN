@@ -4,8 +4,8 @@
 - **Python Developer**🐍 | **Machine Learning / AI Enthusiast**🤖
 ## 🛠️Toolbox
 
-- **Programming Languages:** Python, Java, C, SQL
+- **Programming Languages:** **`Python`**, **`Java`**, **`C`**, **`SQL`**
 - **Libraries & Frameworks:**
-  - PyTorch, TensorFlow, Keras, scikit-learn, spaCy
-  - NumPy, pandas, SciPy, Matplotlib, seaborn
-- **Tools and Platforms:** MySQL, PostgreSQL, Git, GitHub, Power BI, Excel, VSCode
+  - **`PyTorch`**, **`TensorFlow`**, **`Keras`**, **`scikit-learn`**, **`spaCy`**
+  - **`NumPy`**, **`pandas`**, **`SciPy`**, **`Matplotlib`**, **`seaborn`**
+- **Tools and Platforms:** **`MySQL`**, **`PostgreSQL`**, **`Git`**, **`GitHub`**, **`Power BI`**, **`Excel`**, **`VSCode`**
