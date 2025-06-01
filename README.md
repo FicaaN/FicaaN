@@ -1,7 +1,7 @@
 ## Hey, I'm Filip 👋🏻
 
 - **Information Engineering** student at HAW Hamburg⚓
-- **Python Developer**🐍 | **Machine Learning / AI Enthusiast**🤖
+- **Python** & **Machine Learning Developer** | **AI** Enthusiast
 ## 🛠️Toolbox
 
 - **Programming Languages:** **`Python`**, **`Java`**, **`C`**, **`SQL`**
